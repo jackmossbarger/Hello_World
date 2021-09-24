@@ -9,9 +9,9 @@
 - [VERSIONING](#versioning)
 
 ## Bolding text really doesn't work.
--**bold**
--not bold
--* * this should be slanted * *
+- **bold**
+- not bold
+- * * this should be slanted * *
 *Hello World Sample* 
 
 ## Description **wow**
