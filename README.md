@@ -12,7 +12,7 @@
 
 *Hello World Sample* 
 
-## Description **wow
+## Description **wow**
 
 This is a test respository.
 
