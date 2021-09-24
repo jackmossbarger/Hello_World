@@ -10,7 +10,8 @@
 
 ## Bolding text really doesn't work.
 -**bold**
-=not bold
+-not bold
+-* * this should be slanted * *
 *Hello World Sample* 
 
 ## Description **wow**
