@@ -12,9 +12,9 @@
 
 *Hello World Sample* 
 
-## Description
+## Description **wow
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+This is a test respository.
 
 ## How to Run Program 
 
