@@ -8,8 +8,9 @@
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
-
+## Bolding text really doesn't work.
+-**bold**
+=not bold
 *Hello World Sample* 
 
 ## Description **wow**
