@@ -31,7 +31,7 @@ Hello_World/
    
 ```
 
-## Files Used 
+## This is where the cool data visulization should be 
 
 - Did you use any datafiles?  
 - List filenames
@@ -44,7 +44,8 @@ Hello_World/
 
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+No additional documentation at this time.  Here is some **BOLD** text
+right.
 
 
 ## Versioning
